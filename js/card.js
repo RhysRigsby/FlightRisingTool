@@ -120,6 +120,7 @@ function drawName(canvasContext, text, x, y, font, textAlign, color, shadowcolor
 function drawImage(canvasContext, src, x, y, width, height, flip, callback) {
   if (src) {
     var img = new Image();
+    img.setAttribute("crossOrigin",'Anonymous')
     img.src = src;
 
     img.onload = function() {
