@@ -180,7 +180,8 @@ FRData.GaolerTertiaryGeneList = [
     ['Weathered', 'Limited', 'The Coliseum'],
 
     ['Gnarlhorns', 'Rare', '500 G'],
-    ['Opal', 'Rare', '500 G']
+    ['Opal', 'Rare', '500 G'],
+    ['Fans', 'Rare', '500 G']
 ]
 
 FRData.BanescalePrimaryGeneList = [
